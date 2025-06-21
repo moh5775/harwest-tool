@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📦 Harwest ⛏
 
 [![PyPI](https://img.shields.io/pypi/v/harwest.svg)](https://pypi.python.org/pypi/harwest)
@@ -172,3 +173,19 @@ $ harwest codeforces --setup # example
 ## License
 
 MIT License
+=======
+Submissions
+======================
+> *Auto-generated with ❤ using [Harwest](https://github.com/nileshsah/harwest-tool)*
+
+## Introduction
+
+A repository to keep track of problem solving practice, containing solutions from platforms:
+{profile_placeholder}
+
+## Contents
+
+| # | Title | Solution | Tags | Submitted |
+|---| ----- | -------- | ---- | --------- |
+{submission_placeholder}
+>>>>>>> 85e86316bc48a30bea1a2cff3bfb0ce606244081
